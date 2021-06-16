@@ -1,5 +1,4 @@
-import * as React from "react";
-import * as ReactDOM from "react-dom";
+import {React, ReactDOM} from "./CONST";
 import "./index.css";
 import jsx from "./pages/ExamplePage";
 
